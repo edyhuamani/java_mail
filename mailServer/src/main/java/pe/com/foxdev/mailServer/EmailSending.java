@@ -49,7 +49,7 @@ public class EmailSending implements Runnable{
 		try{
 			String message="Este es un correo de prueba 123";
 			final String fromAddress="edymartinh@gmail.com";
-		 	final String password="Cristina311275";
+		 	final String password="XXXXXXXX";
 		 	String subject="Mensaje enviado por perdida de Contrasenia";
 		 	String toAddress="edy.huamani@mdp.com.pe";
 		 	this.mailCompany="sistemas@mdp.com.pe";
